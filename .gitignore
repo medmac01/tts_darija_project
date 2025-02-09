@@ -1,2 +1,12 @@
 data_scraping/ainiacs-project
 data_scraping/dataset
+gemini_transcribing/wav
+gemini_transcribing/output
+gemini_transcribing/*
+gemini_marwa
+gemini_marwa.zip
+data_scraping
+videos_cleaned.csv
+videos_modified.csv
+auto_transcriber/csv
+auto_transcriber/wav
